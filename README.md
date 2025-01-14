@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karim Mirzaguliyev</h1>
 <h3 align="center">Software Engineer (Python) | AI-enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k4rimDev&label=Profile%20views&color=0e75b6&style=flat" alt="k4rimDev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karimmirzaguliyev&label=Profile%20views&color=0e75b6&style=flat" alt="karimmirzaguliyev" /> </p>
 
 - 🔭 I’m currently working on [AutoBase](Private Repo)
 - 💬 Ask me about **Python, Django and FastAPI**
-- 📫 How to reach me **karimmirzaguliyev@gmail.com**
+- 📫 How to reach me **karim.mirzaguliyev.ng@student.aztu.edu.az**
 - ⚡ Fun fact **I think i can write code**
 
 <div> <a href="https://github.com/k4rimDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
